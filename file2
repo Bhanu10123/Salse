@@ -1,0 +1,11 @@
+public class LongClass {
+  
+    public static void longinteger() 
+    {
+       
+        Long l = 1234567856778999L;
+
+       
+        System.debug('l');
+    }
+}
